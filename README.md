@@ -37,5 +37,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## 📚 Documentação
 
-Este projeto usa CSS puro com CSS Modules como abordagem de estilização.
-Veja o guia completo em [`docs/css-modules.md`](./docs/css-modules.md).
+Este projeto usa CSS puro (CSS Modules) como abordagem de estilização, sem bibliotecas utilitárias. Os guias abaixo documentam a estrutura e as convenções usadas:
+
+- [Guia de CSS Modules](./docs/css-modules.md) — box model, seletores, Flexbox, Grid, variáveis CSS e boas práticas.
+- [Guia de HTML no Next.js](./docs/html.md) — estrutura do documento, tags semânticas e diferenças entre HTML e JSX.
+- [Guia de JavaScript e TypeScript](./docs/js-ts.md) — tipos, funções, arrays, assincronia e tipagem de props e hooks.
