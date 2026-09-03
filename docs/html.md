@@ -108,7 +108,7 @@ Antes de decorar tags, entenda as peças que se repetem em todas elas:
 ```html
 <a href="/sobre" target="_blank">Ir para Sobre</a>
  │  │              │                │            │
- │  └─ atributo     └─ atributo     conteúdo      └─ tag de fechamento
+ │  └─ atributo    └─ atributo   conteúdo        └─ tag de fechamento
  tag de abertura
 ```
 
