@@ -10,12 +10,12 @@
     "format": "biome format --write"
   },
   "dependencies": {
-    "next": "16.4.2",
+    "next": "16.4.3",
     "react": "19.3.1",
     "react-dom": "19.3.1"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.15",
+    "@biomejs/biome": "2.6.3",
     "@types/node": "^26",
     "@types/react": "^19",
     "@types/react-dom": "^19",
